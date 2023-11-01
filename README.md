@@ -1,6 +1,6 @@
 # news_app
 
-A News Application for a number of Countries and a number of Categories
+A News Application for a number of Countries(Egypt, US, Japan, India, ........etc.), that it collects information day by day about Business, Entertainment, Technology, Health, Sports, Science and General. Can search for a specific article on the search page. It supports Dark and Light Theme
 
 ## Getting Started
 
