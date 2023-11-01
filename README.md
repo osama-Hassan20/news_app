@@ -1,6 +1,6 @@
-# news_app_using_dio
+# news_app
 
-A new Flutter project.
+A News Application for a number of Countries and a number of Categories
 
 ## Getting Started
 
